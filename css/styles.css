@@ -1,0 +1,43 @@
+#container{
+	width: 80%;
+	margin:auto;
+}
+
+.negro{
+	background-color: black;
+}
+
+.verde{
+	background-color: green;
+}
+
+.rojo{
+	background-color: red
+}
+
+.amarillo{
+	background-color: yellow;
+}
+
+.azul{
+	background-color: blue;
+}
+
+.altura{
+	height: 200px;
+}
+
+.chico{
+	width: 31%;
+
+}
+
+.mediano{
+	width: 48%;
+}
+
+.linea{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
