@@ -21,7 +21,7 @@ $("#derechaMediano").on('click', function(e){//con un click cambia color de su h
 });
 
 
-$("#centroChico").on('click', function(e){//con un click cambia color de sus hermano laterales
+$("#centroChico").on('click', function(e){//con un click cambia color de sus hermanos laterales
 
     $("#izquierdaChico").toggleClass("azul");
     $("#derechaChico").toggleClass("azul");
